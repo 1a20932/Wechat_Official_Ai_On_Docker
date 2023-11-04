@@ -1,0 +1,2 @@
+# Wechat_Official_Ai_On_Docker
+基于NoobHumiliator/wechat_official_ai 开发的在Docker容器内运行的wechat_official_ai
